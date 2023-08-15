@@ -10,4 +10,4 @@ if __name__ == "__main__":
     print("{} + {} = {}".format(x, z, add(x, z)))
     print("{} - {} = {}".format(x, z, sub(x, z)))
     print("{} * {} = {}".format(x, z, mul(x, z)))
-    print("{} / {} = {}".format(x, z, div(x, z))
+    print("{} / {} = {}".format(x, z, div(x, z)))
