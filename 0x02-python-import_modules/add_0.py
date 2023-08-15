@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def add(x, y):
+def add(x, z):
      """My addition function
 
      Args:
@@ -7,8 +7,8 @@ def add(x, y):
      y: second integer
 
      Returns:
-     The return value. x + y
+     The return value. x + z
      """
 
-     return (x +y)
+     return (x + z)
 
